@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    height: 100px;
+    width: 100%;
+}
+
+.grey{
+    background-color: lightgray;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.blue-square{
+    background-color: #4A90E2;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.content-row{
+    padding: 50px;
+    padding-bottom: 100px;
+}
+
+.blue{
+    background-color: #4A90E2;
+}
+
+.aquamarine{
+    background-color: #50E3C2;
+}
+
+.seafoam{
+    background-color: #B8E986;
+}
+
+.yellow{
+    background-color: #F8E71C;
+}
